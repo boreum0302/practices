@@ -1,2 +1,2 @@
 # practices
-파이썬 연
+https://programmers.co.kr/learn/challenges
